@@ -1,0 +1,11 @@
+﻿  Game.cpp
+f:\the_fucking_pigeon_game_two_d\the_fucking_pigeon_game_two\game.cpp(132): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+f:\the_fucking_pigeon_game_two_d\the_fucking_pigeon_game_two\game.cpp(881): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+f:\the_fucking_pigeon_game_two_d\the_fucking_pigeon_game_two\game.cpp(967): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+f:\the_fucking_pigeon_game_two_d\the_fucking_pigeon_game_two\game.cpp(1001): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  0 of 607 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  THE_FUCKING_PIGEON_GAME_TWO.vcxproj -> F:\THE_FUCKING_PIGEON_GAME_TWO_D\Release\THE_FUCKING_PIGEON_GAME_TWO.exe

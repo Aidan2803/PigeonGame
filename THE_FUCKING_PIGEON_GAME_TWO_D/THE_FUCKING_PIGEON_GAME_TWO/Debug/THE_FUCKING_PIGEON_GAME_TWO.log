@@ -1,0 +1,5 @@
+﻿  Game.cpp
+d:\dev\dev\the_fucking_pigeon_game_two_d\the_fucking_pigeon_game_two\game.cpp(92): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\dev\dev\the_fucking_pigeon_game_two_d\the_fucking_pigeon_game_two\game.cpp(248): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\dev\dev\the_fucking_pigeon_game_two_d\the_fucking_pigeon_game_two\game.cpp(268): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  THE_FUCKING_PIGEON_GAME_TWO.vcxproj -> D:\Dev\Dev\THE_FUCKING_PIGEON_GAME_TWO_D\Debug\THE_FUCKING_PIGEON_GAME_TWO.exe
