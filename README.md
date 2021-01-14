@@ -8,11 +8,11 @@
 
 Скриншоты игры:
 
-<img src = "readMeImages/pg1">
-<img src = "readMeImages/pg2">
-<img src = "readMeImages/pg3">
-<img src = "readMeImages/pg4">
-<img src = "readMeImages/pg5">
-<img src = "readMeImages/pg6">
-<img src = "readMeImages/pg7">
-<img src = "readMeImages/pg8">
+<img src = "readMeImages/pg1.png">
+<img src = "readMeImages/pg2.png">
+<img src = "readMeImages/pg3.png">
+<img src = "readMeImages/pg4.png">
+<img src = "readMeImages/pg5.png">
+<img src = "readMeImages/pg6.png">
+<img src = "readMeImages/pg7.png">
+<img src = "readMeImages/pg8.png">
